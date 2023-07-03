@@ -1,0 +1,11 @@
+{
+  "name": "clone-tabnew",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/odevjunior/clone-tabnew.git",
+  "author": "Jairo Junior <jairo.ajunior@mercadolivre.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nextjs": "^0.0.3"
+  }
+}
